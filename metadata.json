@@ -1,0 +1,6 @@
+{
+  "name": "Hydrology Systems",
+  "description": "On-site automated caustic soda generation platform for enterprise wastewater treatment and pH control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
